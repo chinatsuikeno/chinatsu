@@ -6,7 +6,8 @@ chinatsuikeno GitHub self-study to become a github master Ramp
 To understand how to use github
 
 ### :apple: Learning Objectives:  
-
+- Get familiar with the tools.
+- 
 ### :white_check_mark: Checklist and Exercises 
 
 - [ ] Complete `Hello Git`
